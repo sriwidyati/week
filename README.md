@@ -1,0 +1,2 @@
+# week
+learn use git
